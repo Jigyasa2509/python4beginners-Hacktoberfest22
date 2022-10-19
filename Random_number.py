@@ -17,10 +17,7 @@ def game():
             print("\n" + name + ", My number is less than your guessed number")
             print("you now have " + str(6-i)+ " chances left" )
             i = i+1
-        elif user_number == rand_number:
-            print("\nCongratulations "+name+"!! You have guessed the correct number!")
-            r = 0;
-            break
+        
         else:
             print("This is an invalid number. Please try again")
             print("you now have " + str(6-i)+ " chances left" )
