@@ -1,9 +1,7 @@
 #for infinite loop
 while 1>0:
     import calendar
-    # Calendar is an built-in python Module
     
-    # Next two lines take input of the year and month from the user.
     yyyy = int(input("Enter Year: "))
     mm = int(input("Enter Month: "))
     
