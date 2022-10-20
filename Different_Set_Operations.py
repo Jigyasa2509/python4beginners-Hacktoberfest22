@@ -4,6 +4,7 @@ N = {1, 2, 3, 4, 5};
 print("Union of E and N is",E | N)
 
 print("Intersection of E and N is",E & N)
+print("hi')
 
 print("Difference of E and N is",E - N)
 
