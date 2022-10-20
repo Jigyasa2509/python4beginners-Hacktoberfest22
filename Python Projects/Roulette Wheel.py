@@ -1,6 +1,6 @@
 import random
 # Importing Random Module
-
+# initialise
 # Iniitiating an endless loop
 while 1 > 0:
     l = []
